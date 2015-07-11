@@ -1,11 +1,10 @@
-
 # ZoeyYoung的个人简历
 
 ## ☋ 求职意向：软件工程师
 
 ## ☋ 联系方式 && 基本信息
 
-* **联系电话**：1771523\*87*(问我呀)
+* **联系电话**：***********
 * **Email**：ydingmiao@gmail.com
 * **Github**：[https://github.com/ZoeyYoung](https://github.com/ZoeyYoung)
 * **微信号**：Zoey_1990(需表明身份)
@@ -15,7 +14,7 @@
 
 ## ☋ IT && 外语技能
 
-1. **前端框架**：熟悉HTML5、CSS、jQuery、AngularJS等；
+1. **前端框架**：熟悉HTML5、CSS、jQuery、AngularJS、requirejs等；
 2. **UI框架**：熟练使用Bootstrap、MetroUI、SemanticUI等；
 3. **前端工具**：熟练使用Bower、Grunt等；
 4. **Java Web框架**：熟练使用Spring、Spring MVC、Spring Boot、Play框架、Hibernate、JPA等框架；
@@ -37,7 +36,7 @@
 
 #### ★ 2015年05月-至今 **Fujitsu Maintenance Parts Internet Trading**
 
-* 前端技术：Semantic UI、AngularJS、react、DataTables；
+* 前端技术：Semantic UI、AngularJS、react、DataTables、requirejs；
 * 个人职责：前端架构、技术选型、前端主要开发；**代码量：11K / 总18K**
 
 #### ★ 2014年03月-2015年06月 **电科院远程代码安全检测平台**
@@ -106,3 +105,4 @@
 * 感谢您花时间阅读我的简历，期待能有机会和您共事。
 
 (该简历地址：[https://github.com/ZoeyYoung/MyResume/blob/master/Resume.md](https://github.com/ZoeyYoung/MyResume/blob/master/Resume.md))
+
