@@ -7,23 +7,10 @@
 * **联系电话**：***********
 * **Email**：ydingmiao@gmail.com
 * **Github**：[https://github.com/ZoeyYoung](https://github.com/ZoeyYoung)
-* **微信号**：Zoey_1990(需表明身份)
+* **微信号**：Zoey_1990(需表明身份) **QQ**：393478172(较少使用)
 * 女 / 1990
 * **硕士**：南京理工大学 / 软件工程 / 2011年09月-2014年04月
 * **本科**：南京理工大学 / 网络工程 / 2007年09月-2011年07月
-
-## ☋ IT && 外语技能
-
-1. **前端框架**：熟悉HTML5、CSS、jQuery、AngularJS、requirejs等；
-2. **UI框架**：熟练使用Bootstrap、MetroUI、SemanticUI等；
-3. **前端工具**：熟练使用Bower、Grunt等；
-4. **Java Web框架**：熟练使用Spring、Spring MVC、Spring Boot、Play框架、Hibernate、JPA等框架；
-5. **Python Web框架**：有基于Flask框架、Tornado框架的Web项目开发经验；
-6. **数据库相关**：熟练使用关系数据库MySQL、Postgres等；有分布式文档存储数据库MongoDB使用经验；
-7. **版本管理、自动化部署工具**：熟练使用SVN、GIT；Maven；
-8. **英语水平**：CET-6，能够阅读外文资料、 文献；**日语**N5水平；
-9. **职业资格证**：计算机程序设员；级别：三级/高级技能；理论成绩：84，实操成绩：94；
-10. **开发平台**：公司Windwos，个人Mac；
 
 ## ☋ 工作经历
 
@@ -32,12 +19,17 @@
 ### ♛ **南京富士通大软件技术有限公司**（2014年04月至今）
 
 * 企业性质：三资企业 工作类型：全职，软件工程师
-* 工作职责：Web开发、软件开发，主要负责部门前端开发，兼后台开发
+* 工作职责：Web开发、主要负责部门前端开发，兼后台开发
 
 #### ★ 2015年05月-至今 **Fujitsu Maintenance Parts Internet Trading**
 
 * 前端技术：Semantic UI、AngularJS、react、DataTables、requirejs；
-* 个人职责：前端架构、技术选型、前端主要开发；**代码量：11K / 总18K**
+* 个人职责与主要贡献：
+    - 前端主要开发
+    - 前端框架选型中，考虑到项目中有大量表单与模型传递，选用了AngularJS作为前端框架;
+    - 在前端Demo完成度较高时，发现项目有大量的模块与JS引用，因此重构项目，采用requirejs来动态加载JS;
+    - 为项目编写常用的组件，包括共通代码、Angular指令(Directvie)、React组件，例如，项目中使用了大量的日期区间选择，编写成组件方便共通使用；
+    - 调研，包括项目文件的组织，表单验证的实现(结合angular-translate与Semantic Form Validation)等、消息的显示等；
 
 #### ★ 2014年03月-2015年06月 **电科院远程代码安全检测平台**
 
@@ -94,6 +86,19 @@
 
 ### ★ 其它 ...
 
+## ☋ IT && 外语技能
+
+1. **前端框架**：熟悉HTML5、CSS、jQuery、AngularJS、requirejs等；
+2. **UI框架**：熟练使用Bootstrap、MetroUI、SemanticUI等；
+3. **前端工具**：熟练使用Bower、Grunt等；
+4. **Java Web框架**：熟练使用Spring、Spring MVC、Spring Boot、Play框架、Hibernate、JPA等框架；
+5. **Python Web框架**：有基于Flask框架、Tornado框架的Web项目开发经验；
+6. **数据库相关**：熟练使用关系数据库MySQL、Postgres等；有分布式文档存储数据库MongoDB使用经验；
+7. **版本管理、自动化部署工具**：熟练使用SVN、GIT；Maven；
+8. **英语水平**：CET-6，能够阅读外文资料、 文献；**日语**N5水平；
+9. **职业资格证**：计算机程序设员；级别：三级/高级技能；理论成绩：84，实操成绩：94；
+10. **开发平台**：公司Windwos，个人Mac；
+
 ## ☋ 自我评价
 
 * 对计算机技术有浓厚的兴趣，热爱软件开发工作；
@@ -105,4 +110,3 @@
 * 感谢您花时间阅读我的简历，期待能有机会和您共事。
 
 (该简历地址：[https://github.com/ZoeyYoung/MyResume/blob/master/Resume.md](https://github.com/ZoeyYoung/MyResume/blob/master/Resume.md))
-
