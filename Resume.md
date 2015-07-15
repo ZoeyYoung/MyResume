@@ -26,10 +26,10 @@
 * 前端技术：Semantic UI、AngularJS、react、DataTables、requirejs；
 * 个人职责与主要贡献：
     - 职责：前端开发;
-    - 前端框架选型中，考虑到项目中有大量表单与模型传递，选用了AngularJS作为前端框架;
-    - 在前端Demo完成度较高时，发现项目有大量的模块与JS引用，因此重构项目，采用requirejs来动态加载JS;
+    - 选型：UI框架选用Semantic UI,并针对IE9的支持问题进行调研，修复部分BUG；考虑到项目中有大量表单与模型传递，选用了AngularJS作为前端框架;
+    - 重构：在前端Demo完成度较高时，针对项目有大量的模块与JS引用，采用requirejs来动态加载JS;
+    - 调研：包括项目文件的组织，表单验证的实现(结合angular-translate与Semantic Form Validation)等、消息的显示等；
     - 为项目编写常用的组件，包括共通代码、Angular指令(Directvie)、React组件，例如，项目中使用了大量的日期区间选择，编写成组件方便共通使用；
-    - 调研，包括项目文件的组织，表单验证的实现(结合angular-translate与Semantic Form Validation)等、消息的显示等；
 
 #### ★ 2014年03月-2015年06月 **远程代码安全检测平台**
 
