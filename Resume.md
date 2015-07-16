@@ -28,7 +28,7 @@
     - 职责：前端开发、调研;
     - 选型：UI框架选用Semantic UI，并针对IE9的支持问题进行调研，修复部分BUG；考虑到项目中有大量表单与模型传递，选用了AngularJS作为前端框架;
     - 重构：在前端Demo完成度较高时，针对项目有大量的模块与JS引用，采用requirejs来动态加载JS;
-    - 调研：包括项目文件的组织，表单验证的实现(结合angular-translate与Semantic Form Validation)等；
+    - 调研：包括项目文件的组织，表单验证的实现(结合angular-translate与Semantic Form Validation)、消息的显示等；
     - 为项目编写常用的组件，包括共通代码、Angular指令(Directvie)、React组件，例如，项目中使用了大量的日期区间选择，编写成组件方便共通使用；
 
 #### ★ 2014年03月-2015年06月 **远程代码安全检测平台**
@@ -107,7 +107,7 @@
 #### ★ 2013年06月-2014年12月 **书签云系统开发**
 
 * 项目描述：主要研究了Web正文提取技术，并运用于书签系统中；
-* 开发技术与研究内容：Web框架使用Tornado,数据库使用MongoDB, 正文提取在readability-lxml基础上进行修改,分词采用结巴，全文搜索 分词采用结巴，全文搜索 分词采用结巴，全文搜索 分词采用结巴分词，全文搜索Whoosh，前端采用Bootstrap 3、AngularJS；后期开发了基于该项目的Chrome浏览器插件；
+* 开发技术与研究内容：Web框架使用Tornado,数据库使用MongoDB, 正文提取在readability-lxml基础上进行修改,分词采用结巴分词，全文搜索Whoosh，前端采用Bootstrap 3、AngularJS；后期开发了基于该项目的Chrome浏览器插件；
 * 项目开源地址：[https://github.com/ZoeyYoung/Bookmarks_Cloud](https://github.com/ZoeyYoung/Bookmarks_Cloud)；
 
 ### ★ 其它 ...
